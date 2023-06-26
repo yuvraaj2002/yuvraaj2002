@@ -1,11 +1,10 @@
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
 
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
-
-- 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
-- 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe in Collaboration 1st, Code 2nd!
-- 📸 FREE video course on <a href="http://eddiejaoude.io/course-github-profile-landing">How to make your GitHub profile standout</a>
-- 📰 Sign up to my monthly community <a href="http://eddiejaoude.io/newsletters">newsletter</a> to be kept up-to-date with upcoming events, community achievements, and more
+- 🌟 Currently working as AIML developer at Wictronix
+- 📜 Published Researcher (IEEE Bangalore)
+- 📸 Micrsoft Learn Student Ambassador 2023
+- 🛠️ IIT Mandi Frost Hackathon Winner
+- ✍🏻 Love to share my AI knowledge through blogs and have Won <a href="http://eddiejaoude.io/newsletters">Hashnode</a> blogging contest
 
 <p align="center">
   <a href="http://twitter.com/eddiejaoude">
@@ -28,7 +27,7 @@
 
 ---
 
-### Latest YouTube videos
+### Latest Blogs
 
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=3rH1HIhk2lo"><img width="140px" src="https://i.ytimg.com/vi/3rH1HIhk2lo/mqdefault.jpg"></a></td>
@@ -44,29 +43,11 @@
 
 ---
 
-### Testimonials
 
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Message</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
-  </tr>
-</table>
+### Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="https://instagram.com/m_aditya_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 
 <p>All my social links and courses in one place... https://linkfree.eddiehub.io/eddiejaoude</p>

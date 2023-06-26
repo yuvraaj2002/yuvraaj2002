@@ -44,9 +44,11 @@
 ---
 
 ### 📈 My GitHub Statistics
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://streak-stats.demolab.com/?user=yuvraaj2002" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraaj2002&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</div>
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvraaj2002&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuvraaj2002&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Connect With Me
 <p align="left">

@@ -1,4 +1,6 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
+![image](https://github.com/yuvraaj2002/yuvraaj2002/assets/123289647/25d8d00e-a903-441a-a286-13f50353d142)
+
+
 
 - 🌟 Currently working as AIML developer at Wictronix
 - 📜 Published Researcher (IEEE Bangalore)

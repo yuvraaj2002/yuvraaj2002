@@ -20,20 +20,21 @@
 <br />
 ---
 
-### Latest Blogs
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://medium.com/@Yurvaj/if-you-are-looking-for-some-resource-that-could-help-you-to-understand-the-way-cnn-works-in-a-9260aa845ccb" title="Convolutional Neural Network : The only introduction that you need !"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686473557517/fca1d7eb-eb9c-4b8e-ac8c-18487afc8b16.png" alt="Convolutional Neural Network : The only introduction that you need !" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/6-must-know-docker-commands" title="Convolutional Neural Network : The only introduction that you need !"><strong>Convolutional Neural Network : The only introduction that you need !</strong></a>
+<div><strong>14 June 2023</strong> | <strong>Updated: 16 June 2023</strong></div>
+<br/> CNN which stands for Convolutional neural network is simply a type of neural network that is specifically designed to work with image data for solving classification and regression problems. </p> <br/> <br/>
 
-<table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=3rH1HIhk2lo"><img width="140px" src="https://i.ytimg.com/vi/3rH1HIhk2lo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3rH1HIhk2lo">Work with me on an Open Source SaaS Product &lpar;LinkFree&rpar;</a> (Jun 25, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=D79j_Uu9rpY"><img width="140px" src="https://i.ytimg.com/vi/D79j_Uu9rpY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=D79j_Uu9rpY">Tech career tips</a> (Jun 23, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk"><img width="140px" src="https://i.ytimg.com/vi/gIHBVpJhmEk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gIHBVpJhmEk">Deploy to Vercel with a GitHub Action</a> (Jun 21, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE"><img width="140px" src="https://i.ytimg.com/vi/AacR0hS1VwE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AacR0hS1VwE">No experience to get your first job?</a> (Jun 18, 2023)<br/></td></tr>
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
-
+<p align="left">
+<a href="https://blog.pradumnasaraf.dev/code-formatting-github-actions" title="Automate JavaScript Code Formatting Using GitHub Actions and Prettier"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684651944128/e4c5da57-d579-4f11-9137-6d99878f7430.png" alt="Automate JavaScript Code Formatting Using GitHub Actions and Prettier" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/code-formatting-github-actions" title="Automate JavaScript Code Formatting Using GitHub Actions and Prettier"><strong>Automate JavaScript Code Formatting Using GitHub Actions and Prettier</strong></a>
+<div><strong>24 May 2023</strong> | <strong>Updated: 24 May 2023</strong></div>
+<br/> Checking the format manually can be a tedious task, so automating this process can be highly beneficial. In this blog post, we will explore how to use GitHub Actions to automatically format your JavaScript code after every change.
+This will work for ... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
 ---
 
 ### 📈 My GitHub Statistics

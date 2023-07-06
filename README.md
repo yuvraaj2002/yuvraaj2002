@@ -29,11 +29,10 @@
 <br/> CNN which stands for Convolutional neural network is simply a type of neural network that is specifically designed to work with image data for solving classification and regression problems. </p> <br/> <br/>
 
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/code-formatting-github-actions" title="Automate JavaScript Code Formatting Using GitHub Actions and Prettier"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684651944128/e4c5da57-d579-4f11-9137-6d99878f7430.png" alt="Automate JavaScript Code Formatting Using GitHub Actions and Prettier" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/code-formatting-github-actions" title="Automate JavaScript Code Formatting Using GitHub Actions and Prettier"><strong>Automate JavaScript Code Formatting Using GitHub Actions and Prettier</strong></a>
+<a href="https://yuvraj01.hashnode.dev/how-to-use-precision-to-evaluate-your-model-performance" title="How to use Precision to evaluate your model performance ?"><img src="https://github.com/yuvraaj2002/yuvraaj2002/assets/123289647/2d77b23b-b684-45cd-80e8-9465693111c2" alt="Automate JavaScript Code Formatting Using GitHub Actions and Prettier" width="250px" align="left" /></a>
+<a href="https://yuvraj01.hashnode.dev/how-to-use-precision-to-evaluate-your-model-performance" title="How to use Precision to evaluate your model performance ?"><strong>How to use Precision to evaluate your model performance ?</strong></a>
 <div><strong>24 May 2023</strong> | <strong>Updated: 24 May 2023</strong></div>
-<br/> Checking the format manually can be a tedious task, so automating this process can be highly beneficial. In this blog post, we will explore how to use GitHub Actions to automatically format your JavaScript code after every change.
-This will work for ... </p> <br/> <br/>
+<br/> Precision is an important evaluation metrics used to assess the performance of machine learning models solving classification problems. Before diving into the calculation of precision, it is essential to understand why we use this metric instead of relying solely on accuracy. Are there any drawbacks to using accuracy exclusively?</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 ---
 

@@ -1,8 +1,8 @@
 
 
-
-- 🌟 Currently working as AIML developer at Wictronix
-- 📜 Published Researcher (IEEE Bangalore)
+- 📃 Currently working in Samsung research and development team
+- 🌟 Worked as AIML developer at Wictronix
+- c Published Researcher (IEEE Bangalore)
 - 📸 Micrsoft Learn Student Ambassador 2023
 - 🛠️ IIT Mandi Frost Hackathon Winner
 - ✍🏻 Love to share my AI knowledge through blogs and have Won <a href="http://eddiejaoude.io/newsletters">Hashnode</a> blogging contest

@@ -8,13 +8,26 @@
 - ✍🏻 Love to share my AI knowledge through blogs and have Won <a href="http://eddiejaoude.io/newsletters">Hashnode</a> blogging contest
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;">
+<img align="left" alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;">
+<img align="left" alt="TensorFlow" width="40" height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="padding-right:10px;">
+<img align="left" alt="OpenCV" width="40" height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;">
+<img align="left" alt="Pandas" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="padding-right:10px;">
+<img align="left" alt="Scikit-learn" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;">
+<img align="left" alt="NumPy" width="40" height="40" src="https://numpy.org/images/logos/numpy.svg" style="padding-right:10px;">
+<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;">
+<img align="left" alt="Seaborn" width="40" height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;">
+<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;">
+<img align="left" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;">
+<img align="left" alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;">
+<img align="left" alt="Flask" width="40" height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="padding-right:10px;">
+
+
+
+
 <br />
 <br />
----
+
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->

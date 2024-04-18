@@ -32,13 +32,11 @@
 <p align="left">
 <a href="https://medium.com/@Yurvaj/if-you-are-looking-for-some-resource-that-could-help-you-to-understand-the-way-cnn-works-in-a-9260aa845ccb" title="Convolutional Neural Network : The only introduction that you need !"><img src="https://miro.medium.com/v2/resize:fit:786/0*k1sJdYFVP3Vuv-oA" alt="Convolutional Neural Network : The only introduction that you need !" width="250px" align="left" /></a>
 <a href="[https://blog.pradumnasaraf.dev/6-must-know-docker-commands](https://yuvraj01.hashnode.dev/convolutional-neural-network-the-only-introduction-that-you-need)" title="Convolutional Neural Network : The only introduction that you need !"><strong>Convolutional Neural Network : The only introduction that you need !</strong></a>
-<div><strong>14 June 2023</strong> | <strong>Updated: 16 June 2023</strong></div>
 <br/> CNN which stands for Convolutional neural network is simply a type of neural network that is specifically designed to work with image data for solving classification and regression problems. </p> <br/> <br/>
 
 <p align="left">
 <a href="https://yuvraj01.hashnode.dev/feature-scaling-in-machine-learning" title="Feature Scaling In Machine Learning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659364133475/7LxtMrWR_.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Understand the importance of scaling the features in machine learning" width="250px" align="left" /></a>
 <a href="https://yuvraj01.hashnode.dev/feature-scaling-in-machine-learning" title="Feature Scaling In Machine Learning"><strong>Feeature scaling in machine learning</strong></a>
-<div><strong>24 May 2023</strong> | <strong>Updated: 24 May 2023</strong></div>
 <br/> Feature scaling is an essential preprocessing step in machine learning, particularly in supervised learning tasks such as classification and regression. It's closely associated with the data preprocessing phase, which is an integral part of the overall machine learning lifecycle.</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 

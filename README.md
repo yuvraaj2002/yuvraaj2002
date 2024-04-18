@@ -37,7 +37,7 @@
 
 <p align="left">
 <a href="https://yuvraj01.hashnode.dev/feature-scaling-in-machine-learning" title="Feature Scaling In Machine Learning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659364133475/7LxtMrWR_.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Understand the importance of scaling the features in machine learning" width="250px" align="left" /></a>
-<a href="https://yuvraj01.hashnode.dev/feature-scaling-in-machine-learning" title="Feature Scaling In Machine Learning"><strong>How to use Precision to evaluate your model performance ?</strong></a>
+<a href="https://yuvraj01.hashnode.dev/feature-scaling-in-machine-learning" title="Feature Scaling In Machine Learning"><strong>Feeature scaling in machine learning</strong></a>
 <div><strong>24 May 2023</strong> | <strong>Updated: 24 May 2023</strong></div>
 <br/> Feature scaling is an essential preprocessing step in machine learning, particularly in supervised learning tasks such as classification and regression. It's closely associated with the data preprocessing phase, which is an integral part of the overall machine learning lifecycle.</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->

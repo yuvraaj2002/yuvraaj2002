@@ -31,7 +31,7 @@
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://medium.com/@Yurvaj/if-you-are-looking-for-some-resource-that-could-help-you-to-understand-the-way-cnn-works-in-a-9260aa845ccb" title="Convolutional Neural Network : The only introduction that you need !"><img src="https://miro.medium.com/v2/resize:fit:786/0*k1sJdYFVP3Vuv-oA" alt="Convolutional Neural Network : The only introduction that you need !" width="250px" align="left" /></a>
-<a href="[https://blog.pradumnasaraf.dev/6-must-know-docker-commands](https://yuvraj01.hashnode.dev/convolutional-neural-network-the-only-introduction-that-you-need)" title="Convolutional Neural Network : The only introduction that you need !"><strong>Convolutional Neural Network : The only introduction that you need !</strong></a>
+<a href="https://yuvraj01.hashnode.dev/convolutional-neural-network-the-only-introduction-that-you-need" title="Convolutional Neural Network : The only introduction that you need !"><strong>Convolutional Neural Network : The only introduction that you need !</strong></a>
 <br/> CNN which stands for Convolutional neural network is simply a type of neural network that is specifically designed to work with image data for solving classification and regression problems. </p> <br/> <br/>
 
 <p align="left">

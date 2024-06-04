@@ -1,6 +1,6 @@
 
 
-- 📃 Currently working as intern at Samsung research and development.
+- 📃 Currently working SAMSUNG PRISM,2024
 - 🌟 Worked as AIML developer at Wictronix
 - Published Researcher (IEEE Bangalore)
 - 📸 Micrsoft Learn Student Ambassador 2023

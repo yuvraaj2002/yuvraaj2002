@@ -16,7 +16,6 @@ AI Engineer at **MaxVal** and **Relecura**. I build LLM agents, RAG systems and 
 | [ContextOS](https://github.com/yuvraaj2002/ContextOS) | Context-engineering runtime giving local LLM chats persistent memory | Python, Ollama |
 | [Small Language Model From Scratch](https://github.com/yuvraaj2002/Small-Language-Model-From-Scratch) | GPT-style language model built and trained from scratch | PyTorch |
 | [Provable.ai](https://github.com/yuvraaj2002/Provable.ai) | AI safety and red-teaming platform for LLM apps | FastAPI, OpenAI |
-| [PulseStream AI](https://github.com/yuvraaj2002/PulseStream-AI) | Real-time news and trend recommender with an end-to-end data pipeline | Airflow, FastAPI, Docker |
 | [InterviewX](https://github.com/yuvraaj2002/InterviewX) | AI interview-prep toolkit: resume optimisation, posture analysis, summarisation | CV, NLP, Streamlit |
 
 ### Tech I use

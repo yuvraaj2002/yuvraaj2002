@@ -1,6 +1,6 @@
 # Yuvraj Singh
 
-AI engineer. I ship production LLM systems: agents, RAG and retrieval, document AI, and voice AI. Python and AWS. Based in India.
+AI engineer. I ship production LLM systems: agents, RAG and retrieval, document AI, and voice AI. Python and AWS. Open to working with teams worldwide.
 
 [Portfolio](https://master.d24o598po2jt0p.amplifyapp.com/) · [LinkedIn](https://www.linkedin.com/in/yuvraaj-singh/) · [X](https://x.com/yuvraajsinghh1) · [Writing](https://github.com/yuvraaj2002/engineering-blogs)
 
@@ -40,7 +40,7 @@ Built a computer-vision project using YOLO object detection to identify personal
 
 ## Selected work
 
-[**Tracehound**](https://github.com/yuvraaj2002/Tracehound/tree/main) — what I'm building now. Evidence-first multi-agent investigation for on-call engineers. Given an alert, a LangGraph workflow triages it, then specialist agents read logs (Loki), metrics (Prometheus), traces (Tempo), and deploys (GitHub). A hypothesis step returns candidate root causes, and every claim cites evidence. FastAPI, PostgreSQL, and a React UI. Pinned scenario files cover the seeded path.
+[**Tracehound**](https://github.com/yuvraaj2002/Tracehound) — what I'm building now. Evidence-first multi-agent investigation for on-call engineers. Given an alert, a LangGraph workflow triages it, then specialist agents read logs (Loki), metrics (Prometheus), traces (Tempo), and deploys (GitHub). A hypothesis step returns candidate root causes, and every claim cites evidence. FastAPI, PostgreSQL, and a React UI. Pinned scenario files cover the seeded path.
 
 [**InjectGuard**](https://github.com/yuvraaj2002/InjectGuard) — lab for building, attacking, and measuring prompt-injection defenses on a RAG and tool-using agent. The agent is a synthetic banking-ops assistant: keyword search over policy docs, and mock tools for transfers and refunds. In the repo: a local Llama Prompt Guard 2 classifier, an isolation path (planner, quarantine model, and answer model on Groq), and an eval runner. Synthetic data only.
 
@@ -58,3 +58,10 @@ Built a computer-vision project using YOLO object detection to identify personal
 Bachelor's, Artificial Intelligence and Machine Learning, Chandigarh University, 2021–2025.
 
 Microsoft Learn Student Ambassador, Apr 2023 – Jan 2025. Delivered ML and Python workshops to 150+ students globally, with a 95% satisfaction rate.
+
+## Also
+
+- AIML Developer at Wictronix
+- Published researcher (IEEE Bangalore)
+- IIT Mandi Frost + CU Innovation hackathon winner
+- Won a [Hashnode](https://yuvraj01.hashnode.dev) blogging contest

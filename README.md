@@ -1,8 +1,10 @@
 # Yuvraj Singh
 
-AI engineer. I ship production LLM systems: agents, RAG and retrieval, document AI, and voice AI. Python and AWS. Open to working with teams worldwide.
+AI engineer. I ship production LLM systems: agents, RAG and retrieval, document AI, and voice AI. Python and AWS. Open to working with teams worldwide. Samsung PRISM research intern.
 
-[Portfolio](https://master.d24o598po2jt0p.amplifyapp.com/) · [LinkedIn](https://www.linkedin.com/in/yuvraaj-singh/) · [X](https://x.com/yuvraajsinghh1) · [Writing](https://github.com/yuvraaj2002/engineering-blogs)
+**→ [See my work: Portfolio](https://master.d24o598po2jt0p.amplifyapp.com/)**
+
+[LinkedIn](https://www.linkedin.com/in/yuvraaj-singh/) · [X](https://x.com/yuvraajsinghh1) · [Writing](https://github.com/yuvraaj2002/engineering-blogs)
 
 ## Experience
 
@@ -61,7 +63,9 @@ Microsoft Learn Student Ambassador, Apr 2023 – Jan 2025. Delivered ML and Pyth
 
 ## Also
 
-- AIML Developer at Wictronix
+- AIML intern at Wictronix
 - Published researcher (IEEE Bangalore)
 - IIT Mandi Frost + CU Innovation hackathon winner
 - Won a [Hashnode](https://yuvraj01.hashnode.dev) blogging contest
+
+→ [See my work: Portfolio](https://master.d24o598po2jt0p.amplifyapp.com/) · [LinkedIn](https://www.linkedin.com/in/yuvraaj-singh/) · [X](https://x.com/yuvraajsinghh1) · [Writing](https://github.com/yuvraaj2002/engineering-blogs)

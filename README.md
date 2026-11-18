@@ -1,10 +1,31 @@
+<img src="assets/banner.jpg" alt="Learning, Creativity & Balance" width="100%">
+
+<p align="center"><em>Learn deeply, build honestly, ship often.</em></p>
+
 # Yuvraj Singh
 
 AI engineer. I ship production LLM systems: agents, RAG and retrieval, document AI, and voice AI. Python and AWS. Open to working with teams worldwide. Samsung PRISM research intern.
 
-**→ [See my work: Portfolio](https://master.d24o598po2jt0p.amplifyapp.com/)**
-
-[LinkedIn](https://www.linkedin.com/in/yuvraaj-singh/) · [X](https://x.com/yuvraajsinghh1) · [Writing](https://github.com/yuvraaj2002/engineering-blogs)
+<p align="center">
+  <a href="https://master.d24o598po2jt0p.amplifyapp.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yuvraaj-singh/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge">
+  </a>
+  &nbsp;
+  <a href="https://x.com/yuvraajsinghh1">
+    <img alt="X" src="https://img.shields.io/badge/X-555555?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/yuvraaj2002/engineering-blogs">
+    <img alt="Writing" src="https://img.shields.io/badge/Writing-555555?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ## Experience
 

@@ -20,14 +20,16 @@ Open to working with teams worldwide.
 
 ## Selected work
 
-[**Tracehound**](https://github.com/yuvraaj2002/Tracehound) — on-call investigation. A LangGraph workflow reads Loki, Prometheus, Tempo, and GitHub, then returns root-cause hypotheses that have to cite evidence.
-[**InjectGuard**](https://github.com/yuvraaj2002/InjectGuard) — prompt-injection lab on a synthetic banking-ops agent: keyword retrieval, mock transfer and refund tools, a local classifier, an isolation path, and an eval runner.
-[**FlowDesk**](https://github.com/yuvraaj2002/FlowDesk) — support copilot for a fictional CRM, aimed at cited answers, live tools, and writes that wait for a human. The path that runs today is React, FastAPI, and local Ollama.
-[**Engineering blogs**](https://github.com/yuvraaj2002/engineering-blogs) — notes on containing prompt injection when there is no complete fix.
+- [**Tracehound**](https://github.com/yuvraaj2002/Tracehound) — on-call investigation. A LangGraph workflow reads Loki, Prometheus, Tempo, and GitHub, then returns root-cause hypotheses that have to cite evidence.
+- [**InjectGuard**](https://github.com/yuvraaj2002/InjectGuard) — prompt-injection lab on a synthetic banking-ops agent: keyword retrieval, mock transfer and refund tools, a local classifier, an isolation path, and an eval runner.
+- [**FlowDesk**](https://github.com/yuvraaj2002/FlowDesk) — support copilot for a fictional CRM, aimed at cited answers, live tools, and writes that wait for a human. The path that runs today is React, FastAPI, and local Ollama.
+- [**Engineering blogs**](https://github.com/yuvraaj2002/engineering-blogs) — notes on containing prompt injection when there is no complete fix.
 
 ## Stack
 
 Python · LangGraph · FastAPI · AWS · Bedrock · Claude · Gemini · React · PostgreSQL · Qdrant · Docker
+
+## Background
 
 AIML Engineer at Relecura · independent AI contract work (healthcare voice AI, legal RAG, multimodal retail pharmacy) · previously MaxVal, Samsung PRISM research intern, AIML intern at Wictronix
 

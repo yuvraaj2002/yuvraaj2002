@@ -15,7 +15,7 @@ Open to working with teams worldwide.
   &nbsp;
   <a href="https://x.com/yuvraajsinghh1"><img alt="X" src="https://img.shields.io/badge/X-555555?style=for-the-badge&logo=x&logoColor=white"></a>
   &nbsp;
-  <a href="https://github.com/yuvraaj2002/engineering-blogs"><img alt="Writing" src="https://img.shields.io/badge/Writing-555555?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.yuvrajsingh01.com/blogs/"><img alt="Writing" src="https://img.shields.io/badge/Writing-555555?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## Selected work

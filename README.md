@@ -9,7 +9,7 @@ AI engineer. I ship production LLM systems: agents, RAG, document AI, and voice 
 Open to working with teams worldwide.
 
 <p align="center">
-  <a href="https://master.d24o598po2jt0p.amplifyapp.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"></picture></a>
+  <a href="https://www.yuvrajsingh01.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"></picture></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/yuvraaj-singh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge"></a>
   &nbsp;
